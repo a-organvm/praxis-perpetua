@@ -444,3 +444,63 @@ commissions:
       - "4 proven Laws (LAWS.toml) ground the dissolution: system existence, well-founded composition, primitive stratification, temporal necessity."
       - "3 functions live: skeletal_define (510 lines, 22 tests), circulatory_route (340 lines, 27 tests), cultvra_logos (300 lines, 33 tests)."
       - "97 gates total (10 lit / 87 dim). 15 biological mechanisms classified."
+
+  - id: INQ-2026-013
+    title: >-
+      Navigation of the Three Self-Reference Impossibilities —
+      Operationalization of the RES P0 Foundational Bundle
+    short_name: The RES Bundle
+    work_id: SGO-2026-COM-001
+    tier: implementation_commission
+    faculty: governance
+    advisory_faculty: [measurement, naming-infrastructure]
+    commissioned: 2026-05-09
+    status: drafting
+    location: praxis-perpetua/commissions/2026-05-09-RES-bundle-commission.md
+    plan_file: ~/.claude/plans/open-tasks-vectorized-pretzel.md
+    irf_rows:
+      - IRF-RES-003
+      - IRF-RES-004
+      - IRF-RES-006
+      - IRF-RES-007
+      - IRF-RES-008
+      - IRF-RES-009
+      - IRF-RES-010
+      - IRF-RES-011
+      - IRF-RES-012
+      - IRF-RES-013
+      - IRF-RES-014
+    te_budget_total: 1430000
+    calendar_floor: ">=3 weeks (human gates)"
+    sources:
+      - RP-02-self-reference-limits
+      - RP-03-rhizome-vs-hierarchy
+      - RP-04-naming-problem
+      - RP-05-latour-network-ontology
+      - RP-07-measurement-theory
+      - SYN-02-governance-impossibility
+      - SYN-03-naming-as-infrastructure
+      - SYN-04-flat-ontology-measurement
+    description: >-
+      11 P0 RES items reframed as the operational maneuvers around three
+      structural impossibility theorems — Tarski (truth-predicate
+      impossibility), Goodhart-Campbell (measurement corrupts target), and
+      Löb (self-certification impossibility). The commission's purpose is
+      to stop ORGANVM from violating these theorems silently, by making
+      each violation visible (RES-007), externally checked (RES-008), or
+      architecturally separated (RES-010 + RES-013). Three motors:
+      Tarskian (5 items), boundary-objects + naming (3 items), measurement
+      validity (3 items). Five waves; ~1.43M TE; ≥3 weeks calendar floor.
+    needs:
+      - "External raters for IRA panel (RES-008) — recruitment + commissioning"
+      - "Bayesian factor analysis tooling for RES-004 (sample-size mitigation; 145 repos at lower margin of EFA viability)"
+      - "11 paired GitHub issues on meta-organvm/organvm-corpvs-testamentvm with bidirectional cross-references to IRF rows"
+      - "Wave 1 execution: RES-006 (controlled vocabulary registry, retroactive reconciliation) + RES-004 (Bayesian EFA + DIF)"
+      - "RES-014 conditional-execution decision based on RES-004 factor-structure result"
+    notes:
+      - "Origin: 2026-05-09 cross-registry survey session; user directive 'proceed with all'."
+      - "Predecessors: 8 prior research artifacts (RP-02/03/04/05/07 + SYN-02/03/04) in ~/Workspace/intake/research-adventures-2026-03/papers/."
+      - "Bundle reframed (post full-corpus read) as navigation around 3 impossibility theorems rather than 11 governance improvements."
+      - "Plan file persists the exploratory attack-sequence development; this commission is the fixed-form externally-routable distillation."
+      - "implementation_commission is a new tier — distinct from Paper/Thesis/Dissertation (which are academic tiers gated by ICC thresholds); represents an architectural-governance commission whose deliverables are infrastructure changes, not certified knowledge claims."
+      - "Single-operator validation gap acknowledged in source corpus (SYN-03 §5.4): RES-008 IRA panel and RES-014 context norms cannot be validated from inside ORGANVM alone."

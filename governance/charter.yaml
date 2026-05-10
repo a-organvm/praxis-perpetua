@@ -59,3 +59,60 @@ dual_organism:
   metaphor: >-
     Immune system (authority) ensures health; nervous system (SGO) ensures
     intelligence. Neither is viable alone. Together, they constitute an institution.
+
+tiers:
+  description: >-
+    Tiers partition the SGO's certifiable outputs by epistemic posture. Academic
+    tiers (Paper / Thesis / Dissertation) are knowledge claims gated by ICC
+    thresholds and panel review. Non-academic tiers (implementation_commission)
+    are infrastructure changes whose certification is outcome demonstration, not
+    statistical agreement. The two classes share the SGO's commissioning and
+    inquiry-log mechanisms but diverge at the certification stage.
+  academic:
+    - id: paper
+      name: Paper
+      icc_threshold: 0.61
+      requires_provost: false
+      panel_size: 4
+      defense_protocol: standard
+    - id: thesis
+      name: Thesis
+      icc_threshold: 0.70
+      requires_provost: false
+      panel_size: 5
+      defense_protocol: standard
+    - id: dissertation
+      name: Dissertation
+      icc_threshold: 0.75
+      requires_provost: true
+      panel_size: 6
+      defense_protocol: standard
+  non_academic:
+    - id: implementation_commission
+      name: Implementation Commission
+      ratified: 2026-05-09
+      first_instance: INQ-2026-013  # The RES Bundle
+      description: >-
+        Architectural / governance commission whose deliverables are
+        infrastructure changes, not certified knowledge claims. Tracked in
+        inquiry-log.yaml; commission RFC stored alongside as a standalone .md
+        file (e.g., `2026-05-09-RES-bundle-commission.md`). May reference
+        academic-tier source artifacts as inputs (the RES Bundle distills
+        findings from RP-02/03/04/05/07 + SYN-02/03/04) but the deliverables
+        themselves are operational, not propositional.
+      certification: outcome_demonstration
+      requires_provost: false
+      panel_size: null  # No panel; verification is outcome-based
+      defense_protocol: outcome_audit
+      governance_notes:
+        - >-
+          ICC thresholds do not apply: there is no construct being measured
+          by raters. Instead, certification is whether the commission's
+          declared success criteria are met (e.g., for INQ-2026-013: vocabulary
+          registry exists, factor analysis is complete, 5-failure-mode schema
+          is wired through emitters, etc.).
+        - >-
+          The commission may *commission* academic-tier work as part of its
+          execution (e.g., RES-004's factor analysis could be promoted to a
+          Paper). When that happens, the academic-tier work is gated separately
+          by ICC thresholds even though the umbrella commission is non-academic.
