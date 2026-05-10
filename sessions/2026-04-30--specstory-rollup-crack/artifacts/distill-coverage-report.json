@@ -1,0 +1,282 @@
+Loaded 957 prompts from /Users/4jp/Workspace/.specstory/specstory-prompts-distill-input.json
+
+Pattern matches (14 patterns hit):
+  GitHub Issue / Blocker Triage                 122 prompts
+  Manifest / Annotated Bibliography             121 prompts
+  Session State Management                       98 prompts
+  Commit / Push / Release Workflow               94 prompts
+  Document Ingestion / Full Audit                37 prompts
+  Evaluation / Critique / Growth Cycle           29 prompts
+  README / Documentation Generation              15 prompts
+  Planning and Roadmapping                       12 prompts
+  Completeness Verification / Final Sweep         9 prompts
+  Agent Seeding / Workforce Planning              8 prompts
+  Project Initialization / Scaffolding            6 prompts
+  Feature Expansion / Exhaustive Build            3 prompts
+  Business Organism Design                        2 prompts
+  Market / Competitive Research                   1 prompts
+
+Coverage: 11/15 covered, 2 partial, 2 uncovered
+
+Uncovered patterns:
+  [T3] Feature Expansion / Exhaustive Build → SOP--feature-expansion.md
+  [T1] Session State Management → SOP--session-state-management.md
+{
+  "summary": {
+    "total_patterns": 15,
+    "covered": 11,
+    "partial": 2,
+    "uncovered": 2,
+    "coverage_pct": 73.3,
+    "uncovered_patterns": [
+      "feature-expand",
+      "session-state"
+    ]
+  },
+  "coverage": [
+    {
+      "pattern_id": "scaffold",
+      "pattern_label": "Project Initialization / Scaffolding",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "repo-onboarding-and-habitat-creation"
+      ],
+      "prompt_count": 6,
+      "sample_prompts": [
+        "check all quality, completeness, correctness::::::::::::  Finalizing Maddie Trailing Catalog.md Untitled-1.md Compiling Disparate Person-Tied Trails.md # Plan to compile disparate hangings/ re.ini Pot...",
+        "check all quality, completeness, correctness::::::::::::  Finalizing Maddie Trailing Catalog.md Untitled-1.md Compiling Disparate Person-Tied Trails.md # Plan to compile disparate hangings/ re.ini Pot...",
+        "Base directory for this skill: /Users/4jp/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.6/skills/brainstorming  # Brainstorming Ideas Into Designs  Help turn ideas into fully formed de..."
+      ],
+      "sop_name_hint": "project-scaffolding"
+    },
+    {
+      "pattern_id": "ingest",
+      "pattern_label": "Document Ingestion / Full Audit",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "document-audit-feature-extraction",
+        "document-audit-feature-extraction"
+      ],
+      "prompt_count": 37,
+      "sample_prompts": [
+        "Session-Close Audit \u2014 Final Verdict    \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510   \u2502         Check          \u2502 Status \u2502                    Evidence...",
+        "Session-Close Audit \u2014 Final Verdict    \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510   \u2502         Check          \u2502 Status \u2502                    Evidence...",
+        "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.  Summary: 1. Primary Request and Intent:  The co..."
+      ],
+      "sop_name_hint": "document-ingestion-and-audit"
+    },
+    {
+      "pattern_id": "eval-cycle",
+      "pattern_label": "Evaluation / Critique / Growth Cycle",
+      "tier": "T1",
+      "status": "covered",
+      "matching_sops": [
+        "session-self-critique",
+        "SOP-SS-REV-001_001-evaluation-to-growth-review-chain"
+      ],
+      "prompt_count": 29,
+      "sample_prompts": [
+        ";;;;;;;;;;;;;;;;;;;;;;;;                             \u23fa Verifying what's actually on disk vs claimed in   that transcript.    Listed 1 directory (ctrl+o to expand)  \u23fa Bash(cd       ~/Workspace/4444J99/...",
+        ";;;;;;;;;;;;;;;;;;;;;;;;                             \u23fa Verifying what's actually on disk vs claimed in   that transcript.    Listed 1 directory (ctrl+o to expand)  \u23fa Bash(cd       ~/Workspace/4444J99/...",
+        "the omitted's should either exist, all are required, but if not here, by law, then elsewhere;  _**User (2026-03-28 00:41:10Z)**_  the omitted's should either exist, all are required, but if not here,..."
+      ],
+      "sop_name_hint": "evaluation-and-growth-cycle"
+    },
+    {
+      "pattern_id": "plan-roadmap",
+      "pattern_label": "Planning and Roadmapping",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "planning-and-roadmapping"
+      ],
+      "prompt_count": 12,
+      "sample_prompts": [
+        "all of this locked??? \" Genetic Incorporation Audit    These five documents are the DNA. The constitution we've been writing this session is   the organism that expresses it. Here's what's been transc...",
+        "ah yes and it's phase state: \"\u23fa All tasks complete. Here's the final state:    ---   Board: https://github.com/users/4444J99/projects/3    21 issues across 4 active phases, all with 8 custom fields po...",
+        "building a interacting living container to host systems of natural, social, digital systems hierarchically nested with idealized forms reflecting and refracting interactions of functions and their cou..."
+      ],
+      "sop_name_hint": "planning-and-roadmapping"
+    },
+    {
+      "pattern_id": "research",
+      "pattern_label": "Market / Competitive Research",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "market-gap-analysis",
+        "research-to-implementation-pipeline"
+      ],
+      "prompt_count": 1,
+      "sample_prompts": [
+        "all of this locked??? \" Genetic Incorporation Audit    These five documents are the DNA. The constitution we've been writing this session is   the organism that expresses it. Here's what's been transc..."
+      ],
+      "sop_name_hint": "market-and-competitive-research"
+    },
+    {
+      "pattern_id": "manifest",
+      "pattern_label": "Manifest / Annotated Bibliography",
+      "tier": "T3",
+      "status": "covered",
+      "matching_sops": [
+        "source-evaluation-and-bibliography"
+      ],
+      "prompt_count": 121,
+      "sample_prompts": [
+        "below is your workload assignment:::::::::::::                                                                               \u23fa \u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500...",
+        "below is your workload assignment:::::::::::::                                                                               \u23fa \u2605 Insight \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500...",
+        "<task-notification> <task-id>a4340ab4d1996bc11</task-id> <tool-use-id>toolu_01EU1FmStaXNVa8NzYza8Aww</tool-use-id> <output-file>/private/tmp/claude-501/-Users-4jp-Workspace/35f5e88f-9ca4-41d3-9ee4-022..."
+      ],
+      "sop_name_hint": "project-manifest-and-bibliography"
+    },
+    {
+      "pattern_id": "rename",
+      "pattern_label": "Ontological Renaming",
+      "tier": "T3",
+      "status": "covered",
+      "matching_sops": [
+        "ontological-renaming"
+      ],
+      "prompt_count": 0,
+      "sample_prompts": [],
+      "sop_name_hint": "ontological-renaming"
+    },
+    {
+      "pattern_id": "commit-push",
+      "pattern_label": "Commit / Push / Release Workflow",
+      "tier": "T1",
+      "status": "partial",
+      "matching_sops": [],
+      "prompt_count": 94,
+      "sample_prompts": [
+        "review :::\"\"\" claude --dangerously-skip-permissions --chrome \u256d\u2500\u2500\u2500 Claude Code v2.1.84 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500...",
+        "review :::\"\"\" claude --dangerously-skip-permissions --chrome \u256d\u2500\u2500\u2500 Claude Code v2.1.84 \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500...",
+        "a series of github issues need review:  N/A Vacuum Audit    The memory file references \"Artifacts in call-function--ontological/docs/\" \u2014 this is now    accurate (5 docs staged). No N/A vacuums detecte..."
+      ],
+      "sop_name_hint": "commit-and-release-workflow"
+    },
+    {
+      "pattern_id": "completeness",
+      "pattern_label": "Completeness Verification / Final Sweep",
+      "tier": "T1",
+      "status": "covered",
+      "matching_sops": [
+        "completeness-verification"
+      ],
+      "prompt_count": 9,
+      "sample_prompts": [
+        "new work: \" Session Audit Report                                                                                                                       What Was Done...",
+        "new work: \" Session Audit Report                                                                                                                       What Was Done...",
+        "intention of previous brainstorm: knowledge creation of each module as it's own universal system, scientists study the thing, philosphers think of the thing, critics critque it, academics contextualiz..."
+      ],
+      "sop_name_hint": "completeness-verification"
+    },
+    {
+      "pattern_id": "agent-seed",
+      "pattern_label": "Agent Seeding / Workforce Planning",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "agent-seeding-and-workforce-planning"
+      ],
+      "prompt_count": 8,
+      "sample_prompts": [
+        "these pillars are the fundamental orders of existence: \"There is no single scientific domain that encompasses \"reality in total.\" Instead, science is divided into three major branches that, when taken...",
+        "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.  Summary: 1. Primary Request and Intent:    The...",
+        "This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.  Summary: 1. Primary Request and Intent:    The..."
+      ],
+      "sop_name_hint": "agent-seeding-and-workforce-planning"
+    },
+    {
+      "pattern_id": "readme-docs",
+      "pattern_label": "README / Documentation Generation",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "readme-and-documentation"
+      ],
+      "prompt_count": 15,
+      "sample_prompts": [
+        "<command-name>/export</command-name>             <command-message>export</command-message>             <command-args></command-args>  _**User (2026-04-29 19:40:36-0400)**_  <local-command-stdout>Conve...",
+        "your on this: 4. organvm-i-theoria/.github#406 \u2014 PR review (37 bot     comments)                                                                                               Context: PR \"docs: add lo...",
+        "<task-notification> <task-id>a73307429dc441818</task-id> <tool-use-id>toolu_013xgSYR4JuH3RDQ3hkcusaX</tool-use-id> <output-file>/private/tmp/claude-501/-Users-4jp-Workspace/35f5e88f-9ca4-41d3-9ee4-022..."
+      ],
+      "sop_name_hint": "readme-and-documentation"
+    },
+    {
+      "pattern_id": "feature-expand",
+      "pattern_label": "Feature Expansion / Exhaustive Build",
+      "tier": "T3",
+      "status": "uncovered",
+      "matching_sops": [],
+      "prompt_count": 3,
+      "sample_prompts": [
+        "Base directory for this skill: /Users/4jp/.claude/plugins/cache/claude-plugins-official/superpowers/5.0.6/skills/writing-plans  # Writing Plans  ## Overview  Write comprehensive implementation plans a...",
+        "<command-name>/effort</command-name>             <command-message>effort</command-message>             <command-args></command-args>  _**User (2026-04-20 10:42:23-0400)**_  <local-command-stdout>Curre...",
+        "<command-name>/effort</command-name>             <command-message>effort</command-message>             <command-args></command-args>  _**User (2026-04-20 14:42:23Z)**_  <local-command-stdout>Current e..."
+      ],
+      "sop_name_hint": "feature-expansion"
+    },
+    {
+      "pattern_id": "session-state",
+      "pattern_label": "Session State Management",
+      "tier": "T1",
+      "status": "uncovered",
+      "matching_sops": [],
+      "prompt_count": 98,
+      "sample_prompts": [
+        "Continue from where you left off.",
+        "other-session :::: # Handoff: 72h Reconciliation Refinement Discussion  **Session ID:** ses_2b6731889ffeNaEUFeuijM3X7a **Created:** 4/1/2026, 10:57:44 AM **Updated:** 4/2/2026, 4:15:23 AM",
+        "data--referenced-scheduled--review--system-wide :::: '''' # Hall-Monitor Audit: Vacuum Recovery & Parity Plan  **Session ID:** ses_2b0e8bd79ffeucF7j70tJEsHCy **Created:** 4/2/2026, 12:46:57 PM **Updat..."
+      ],
+      "sop_name_hint": "session-state-management"
+    },
+    {
+      "pattern_id": "gh-issues",
+      "pattern_label": "GitHub Issue / Blocker Triage",
+      "tier": "T1",
+      "status": "partial",
+      "matching_sops": [],
+      "prompt_count": 122,
+      "sample_prompts": [
+        "<local-command-caveat>Caveat: The messages below were generated by the user while running local commands. DO NOT respond to these messages or otherwise consider them in your response unless the user e...",
+        "* shared-strider--intake_work_other--output_work_owned       :::: ''''                                                             I will now double-check all my work to ensure that   everything is co...",
+        "* shared-strider--intake_work_other--output_work_owned       :::: ''''                                                             I will now double-check all my work to ensure that   everything is co..."
+      ],
+      "sop_name_hint": "github-issue-triage"
+    },
+    {
+      "pattern_id": "biz-organism",
+      "pattern_label": "Business Organism Design",
+      "tier": "T2",
+      "status": "covered",
+      "matching_sops": [
+        "business-organism-design"
+      ],
+      "prompt_count": 2,
+      "sample_prompts": [
+        "ah yes and it's phase state: \"\u23fa All tasks complete. Here's the final state:    ---   Board: https://github.com/users/4444J99/projects/3    21 issues across 4 active phases, all with 8 custom fields po...",
+        "these pillars are the fundamental orders of existence: \"There is no single scientific domain that encompasses \"reality in total.\" Instead, science is divided into three major branches that, when taken..."
+      ],
+      "sop_name_hint": "business-organism-design"
+    }
+  ],
+  "match_counts": {
+    "readme-docs": 15,
+    "ingest": 37,
+    "manifest": 121,
+    "completeness": 9,
+    "scaffold": 6,
+    "eval-cycle": 29,
+    "feature-expand": 3,
+    "gh-issues": 122,
+    "commit-push": 94,
+    "session-state": 98,
+    "plan-roadmap": 12,
+    "research": 1,
+    "agent-seed": 8,
+    "biz-organism": 2
+  }
+}
