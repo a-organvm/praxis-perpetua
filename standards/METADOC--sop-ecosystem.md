@@ -161,6 +161,12 @@ SOPs that describe how to operate a specific system artifact belong with that ar
 |---|------|-------|------|---------|
 | 1 | `sop-doctoral-dissertation.md` | ORGAN-V | `organvm-v-logos/public-process` | Doctoral dissertation research and writing workflow |
 | 2 | `sop--diagnostic-inter-rater-agreement.md` | PERSONAL | `4444J99/application-pipeline` | Diagnostic inter-rater agreement procedure for applications |
+| 3 | `SOP-application-genesis.md` | PERSONAL | `4444J99/application-pipeline` | Generate and submit a complete, validated application package (pilot implementation of SPEC-023) |
+| 4 | `sop--atomic-clock.md` | PERSONAL | `4444J99/application-pipeline` | The Atomic Clock — natural sequencing of all forces (SOP-SYS-004, T0) |
+| 5 | `sop--execution-sequence.md` | PERSONAL | `4444J99/application-pipeline` | Execution Sequence — the complete loop timeline of every force the system exerts (SOP-SYS-002, T1) |
+| 6 | `sop--multi-agent-dispatch.md` | PERSONAL | `4444J99/application-pipeline` | Multi-Agent Dispatch — parallel non-competing workstreams across four AI agents (SOP-SYS-003, T1) |
+| 7 | `sop--session-handoff-avalanche.md` | PERSONAL | `4444J99/application-pipeline` | Session Handoff Avalanche — the momentum relay between sessions (SOP-SYS-003 dup, T1; ID-collision noted) |
+| 8 | `sop--system-loops.md` | PERSONAL | `4444J99/application-pipeline` | System Loops — every action is a cycle; this catalogs every loop, cadence, and trigger (SOP-SYS-001, T1) |
 
 ---
 
