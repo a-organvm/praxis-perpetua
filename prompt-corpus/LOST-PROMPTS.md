@@ -12,7 +12,7 @@ These prompts received no substantive response. Each is a potential recoverable 
 
 ### [no_response] 2026-04-04T18:41 / system-system--system
 
-> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 doma
+> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf sta
 
 ### [no_response] 2026-04-04T17:51 / system-system--system
 
@@ -32,7 +32,7 @@ These prompts received no substantive response. Each is a potential recoverable 
 
 ### [no_response] 2026-04-01T21:46 / buzzing-puzzling-dove
 
-> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 doma
+> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf sta
 
 ### [no_response] 2026-04-01T01:13 / tingly-painting-rainbow
 
@@ -52,7 +52,7 @@ These prompts received no substantive response. Each is a potential recoverable 
 
 ### [no_response] 2026-03-31T06:09 / compiled-swinging-kahn
 
-> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 doma
+> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf sta
 
 ### [clarification_requested] 2026-03-31T05:32 / compiled-swinging-kahn
 
@@ -92,7 +92,7 @@ These prompts received no substantive response. Each is a potential recoverable 
 
 ### [no_response] 2026-03-26T00:29 / sovereign-systems--elevate-align
 
-> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 doma
+> ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus? ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules; The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf sta
 
 ### [minimal_response] 2026-03-25T22:53 / stakeholder-portal
 
@@ -160,7 +160,7 @@ These prompts received no substantive response. Each is a potential recoverable 
 
 ### [no_response] 2026-03-24T00:35 / stakeholder-portal
 
-> The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues
+> The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues
 
 ### [no_response] 2026-03-24T00:11 / application-pipeline
 
