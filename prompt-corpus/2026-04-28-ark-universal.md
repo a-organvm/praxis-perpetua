@@ -3390,7 +3390,7 @@ got app is blocked again
 
 ### The Credential
 
-A Gmail app password with the value `dxmz yydz pbmo shjk` was created on 2026-03-25 under the label `gmail-app-pw-033526` in Google Account Security. It was originally used by a script called `fetch_recent_gmail.py` that lived in the home directory root, and was intended for a Docker MCP Gmail integration (`yashtekwani/gmail-mcp`).
+A Gmail app password with the value `<redacted-burned-app-pw>` was created on 2026-03-25 under the label `gmail-app-pw-033526` in Google Account Security. It was originally used by a script called `fetch_recent_gmail.py` that lived in the home directory root, and was intended for a Docker MCP Gmail integration (`yashtekwani/gmail-mcp`).
 
 ### What Has Already Been Done (Codebase Side)
 
@@ -3406,7 +3406,7 @@ A Gmail app password with the value `dxmz yydz pbmo shjk` was created on 2026-03
 
 ### What Remains Unresolved (Requires Human Action)
 
-**The app password `dxmz yydz pbmo shjk` has NOT been revoked in Google Account Security.** This is a manual browser action that cannot be automated by Claude Code:
+**The app password `<redacted-burned-app-pw>` has NOT been revoked in Google Account Security.** This is a manual browser action that cannot be automated by Claude Code:
 
 1. Go to [Google Account Security &gt; App Passwords](https://myaccount.google.com/apppasswords) (or Google Account &gt; Security &gt; 2-Step Verification &gt; App passwords)
 2. Find the app password labeled `gmail-app-pw-033526` (created 2026-03-25)
@@ -4578,7 +4578,7 @@ Define exact algorithms for clip extraction and scoring"""";;;;
 persist:''''
 ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus?
 ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules;
-The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN
+The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN
   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##
   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues, check omega
   scorecard impact, update inquiry-log.yaml if SGO work, update seed.yaml if capabilities changed, update CLAUDE.md if architecture changed, update concordance if new IDs
@@ -15093,7 +15093,7 @@ Define exact algorithms for clip extraction and scoring
 ------------
 ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus?
 ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules;
-The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN
+The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN
   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##
   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues, check omega
   scorecard impact, update inquiry-log.yaml if SGO work, update seed.yaml if capabilities changed, update CLAUDE.md if architecture changed, update concordance if new IDs
@@ -16566,7 +16566,7 @@ gemini
   breaking the rules;                                                                      
   The Index Rerum Faciendarum at                                                           
   meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal 
-   work registry (150 items, 19 domains, IRF-XXX-NNN                                       
+   work registry (run `organvm irf stats`, IRF-XXX-NNN                                       
     IDs). On start: check for P0/P1 items in your working domain. During work: note        
   completed or discovered IRF items. On close: update the IRF — move completed items to ## 
     Completed, add new items to their domain section, update statistics. REQUIRED:         
@@ -17509,7 +17509,7 @@ ANOTHER
   The Index Rerum Faciendarum at                   
   meta-organvm/organvm-corpvs-testamentvm/INST-IND 
   EX-RERUM-FACIENDARUM.md is the universal work    
-  registry (150 items, 19 domains, IRF-XXX-NNN     
+  registry (run `organvm irf stats`, IRF-XXX-NNN     
     IDs). On start: check for P0/P1 items in your  
   working domain. During work: note completed or   
   discovered IRF items. On close: update the IRF — 
@@ -17602,7 +17602,7 @@ ANOTHER
 ```
 ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus?
 ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules;
-The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN
+The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN
   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##
   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues, check omega
   scorecard impact, update inquiry-log.yaml if SGO work, update seed.yaml if capabilities changed, update CLAUDE.md if architecture changed, update concordance if new IDs
@@ -18118,7 +18118,7 @@ warp restarted and closed the previous sessions; what were they
 apply sequence to gathering all sessions from april:::::::::::
 ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus?
 ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules;
-The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN
+The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN
   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##
   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues, check omega
   scorecard impact, update inquiry-log.yaml if SGO work, update seed.yaml if capabilities changed, update CLAUDE.md if architecture changed, update concordance if new IDs
@@ -20736,7 +20736,7 @@ claude --dangerously-skip-permissions --chrome
 all heavens to below::::::::::::::
 ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus?
 ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules;
-The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN
+The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN
   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##
   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues, check omega
   scorecard impact, update inquiry-log.yaml if SGO work, update seed.yaml if capabilities changed, update CLAUDE.md if architecture changed, update concordance if new IDs
@@ -21724,7 +21724,7 @@ I'm going to provide you disparate sessions of work that require quality assuran
 
 ❯ ❯ Provide an overview of all that was and all that is and all that needs to be based on this entire session's context; has everything been GitHub issued, saved in the directory context? Is this session safe to close? Are we certain, Sisyphus?
 ❯ double check all work; be the hall-monitor wanting oh so badly to catch someone breaking the rules;
-The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (150 items, 19 domains, IRF-XXX-NNN
+The Index Rerum Faciendarum at meta-organvm/organvm-corpvs-testamentvm/INST-INDEX-RERUM-FACIENDARUM.md is the universal work registry (run `organvm irf stats`, IRF-XXX-NNN
   IDs). On start: check for P0/P1 items in your working domain. During work: note completed or discovered IRF items. On close: update the IRF — move completed items to ##
   Completed, add new items to their domain section, update statistics. REQUIRED: propagate completions to ALL interested external indices — close GitHub issues, check omega
   scorecard impact, update inquiry-log.yaml if SGO work, update seed.yaml if capabilities changed, update CLAUDE.md if architecture changed, update concordance if new IDs
